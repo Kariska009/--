@@ -1,9 +1,9 @@
 body {
-    background-image: url('photo_2024-02-22_20-37-11.jpg');
+    background-image: url('flowers.jpg');
 }
 
 .header-text {
-    color: rgb(6, 51, 249);
+    color: rgb(59, 4, 4);
     text-align: right;
     padding-right: 10vw;
 }
@@ -25,8 +25,8 @@ th {
 
 .first-th,
 .second-th {
-    background-color: plum;
-    color: brown;
+    background-color: rgb(196, 92, 222);
+    color: rgb(97, 11, 11);
     font-size: larger;
 }
 
@@ -37,8 +37,8 @@ th {
 
 .first-head,
 .second-head {
-    background-color: rgb(72, 230, 72);
-    color: rgb(239, 239, 111);
+    background-color: rgb(220, 146, 226);
+    color: rgb(80, 8, 33);
 }
 
 .ul-list {
@@ -56,13 +56,13 @@ th {
 .first-td,
 .second-td {
     width: 42.5%;
-    background-color: rgb(192, 192, 1);
+    background-color: rgb(213, 172, 235);
 }
 
 .head-ol {
-    color: rgb(0, 0, 0);
+    color: rgb(73, 6, 6);
 }
 
 .head-ol-two {
-    color: rgb(0, 0, 0);
+    color: rgb(71, 5, 5);
 }
