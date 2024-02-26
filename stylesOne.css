@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(165, 143, 189);
+}
+
+.header-text {
+    text-align: center;
+    color: rgb(213, 50, 28);
+}
+
+.table {
+    width: 100%;
+}
+
+.ol-list,
+.ul-list {
+    width: 25%;
+}
+
+.dl-list {
+    width: 50%;
+}
+
+table, 
+th,
+td {
+    border: 5px outset rgb(112, 103, 103);
+    border-collapse: collapse;
+}
+
+td{
+    background-color: rgb(181, 181, 145);
+}
+
+.first-row {
+    background-color: rgb(138, 195, 195);
+    color: rgb(15, 164, 15);
+    height: 5vh;
+    font-size: larger;
+}
+
+.ol-list-two {
+    text-align: left;
+    padding-left: 20%;
+}
+.ul-list-two {
+    text-align: left;
+    padding-left: 25%;
+    font-size: large;
+ 
+}
+.ol-list-two {
+    color: rgb(213, 50, 28);
+}
+
+.ul-list-two {
+    color: rgb(61, 61, 208);
+    list-style-type: square;
+}
+
+.dl-list-two {
+    position: absolute;
+    color: green;
+    top: 0;
+}
+
+.for-position {
+    position: relative;
+}
+
+.footer-line {
+    width: 70%;
+    height: 1vh;
+    background-color:rgb(213, 50, 28);
+    margin: 2vh auto auto;
+}
+
+
+
+
+
+
+

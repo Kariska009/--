@@ -1,0 +1,68 @@
+body {
+    background-image: url('photo_2024-02-22_20-37-11.jpg');
+}
+
+.header-text {
+    color: rgb(6, 51, 249);
+    text-align: right;
+    padding-right: 10vw;
+}
+
+.table {
+    width: 100%;
+}
+
+table,
+td,
+th {
+    border: 5px outset rgb(230, 105, 105);
+    border-collapse: collapse;
+}
+
+.first-th {
+    width: 15%;
+}
+
+.first-th,
+.second-th {
+    background-color: plum;
+    color: brown;
+    font-size: larger;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+}
+
+.first-head,
+.second-head {
+    background-color: rgb(72, 230, 72);
+    color: rgb(239, 239, 111);
+}
+
+.ul-list {
+    list-style-type: square;
+}
+
+.ul-list-two {
+    list-style-type: circle;
+}
+
+.ul-list-three {
+    list-style-type: disc;
+}
+
+.first-td,
+.second-td {
+    width: 42.5%;
+    background-color: rgb(192, 192, 1);
+}
+
+.head-ol {
+    color: rgb(0, 0, 0);
+}
+
+.head-ol-two {
+    color: rgb(0, 0, 0);
+}
