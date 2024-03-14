@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лабораторная работа №3.1</title>
+    <style>
+		body {
+			background-color: Plum;
+		}
+		table {
+			background-color: khaki;
+			border: 7px solid;
+			border-style: ridge;
+			border-collapse: collapse;
+			border-color: LightYellow
+		}
+		tr, td {
+            text-align: center;
+			border: 5px solid LightYellow;
+			border-style: ridge;
+		}
+		th {
+			border: 5px solid LightYellow;
+			border-style: ridge;
+			font-size: 25px;
+			background-color: aqua;
+		}
+	</style>
+</head>
+<body>
+    <hr size="15" width="85%" align="center" color="maroon">
+    <h1 align="center">Таблица цветов</h1>
+    <hr size="15" width="85%" align="center" color="maroon">
+    <table align="center">
+        <tr>
+            <th style="color: MediumSeaGreen">Цвет</th>
+            <th style="color: LightSeaGreen">Название</th>
+        </tr>
+        <tr>
+            <td ><img src="red.jpg" height="80px" width="120px"></td>
+            <td >Красный</td>
+        </tr>
+        <tr>
+            <td ><img src="orange.jpg" height="80px" width="120px"></td>
+            <td >Оранжевый</td>
+        </tr>
+        <tr>
+            <td ><img src="yellow.jpg" height="80px" width="120px"></td>
+            <td >Желтый</td>
+        </tr>
+        <tr>
+            <td ><img src="green.jpg" height="80px" width="120px"></td>
+            <td >Зеленый</td>
+        </tr>
+        <tr>
+            <td ><img src="blue.jpg" height="80px" width="120px"></td>
+            <td >Голубой</td>
+        </tr>
+        <tr>
+            <td ><img src="blue2.jpg" height="80px" width="120px"></td>
+            <td >Синий</td>
+        </tr>
+        <tr>
+            <td ><img src="purple.jpg" height="80px" width="120px"></td>
+            <td >Фиолетовый</td>
+        </tr>
+        <tr>
+            <td colspan="2">Красный, синий, голубой, выбирай себе любой!</td>
+        </tr>
+    </table>>
+</body>
+</html>
