@@ -1,0 +1,19 @@
+.container {
+    height: 30px;
+}
+
+.text {
+    text-align: left;
+    float: left;
+    width: 50%;
+    color: #341809;
+    padding-top: 30px;
+    font-size: 30px;
+}
+
+.frame {
+    float: right;
+    width: 47%;
+    padding-top: 30px;
+    
+}
